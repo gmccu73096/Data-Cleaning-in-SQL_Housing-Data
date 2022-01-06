@@ -1,1 +1,1 @@
-# Data-Cleaning-in-SQL_Housing-Data
+# Data Cleaning in SQL_Housing Data
